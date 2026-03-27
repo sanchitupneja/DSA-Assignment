@@ -1,0 +1,16 @@
+Stack pop: 30
+Stack peek: 20
+Factorial of 5: 120
+Fibonacci(6): 8
+Naive Fibonacci calls: 25
+Memo Fibonacci(6): 8
+Memoized Fibonacci calls: 11
+Tower of Hanoi for 3 disks:
+Move disk 1 from A to C
+Move disk 2 from A to B
+Move disk 1 from C to B
+Move disk 3 from A to C
+Move disk 1 from B to A
+Move disk 2 from B to C
+Move disk 1 from A to C
+Binary Search result index: 4
